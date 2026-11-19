@@ -3,7 +3,12 @@
 ## Design notes
 
 Decisions behind the layout of `entry.png`, the broadsheet for Thursday
-19 November 2026:
+19 November 2026 — a single-day front page that gathers 38 stories from
+around the world into one printed-style artifact. The 38-story count is
+deliberate: 38 items were chosen to span courts, money, earth, inflation,
+and sport across every populated region, so the page reads as the whole
+world's Thursday rather than a sample of it. Every design decision below
+serves that one-day, 38-story brief.
 
 1. **Cream paper.** The page is built on a warm off-white (#f5f0e4-ish)
    rather than plain white so it reads as printed newsprint, not a web
@@ -44,3 +49,15 @@ Decisions behind the layout of `entry.png`, the broadsheet for Thursday
    East 2) doubles as a legend: every card's tag reuses its region's color,
    and stories are numbered 1-38 so the count in the masthead is auditable
    against the page body.
+
+## Sources
+
+- Reuters
+- AP
+- AFP
+- BBC
+- Bloomberg
+- Kyodo
+- ICJ
+- USGS
+- ONS
